@@ -51,7 +51,7 @@ inovei a comunidade e ajudei muitas pessoas, mais graças aos meus amigos que me
   <div align="center">
 <img src="https://telegra.ph/file/823afe228bd7d57c4ed25.gif" align="right" width="373.5px" height="208.5px">
   </div> <br>
-<p align="center">Bem a lolizita é chatbot feita em nodejs por mim com a intenção de entretenimento para grupos de whatsapp, faz mais de um ano que mexo com ela e vivo atualizando, é um projeto que com o tempo ficou cansativo para mim, principalmente por mal receber pelo open source mais eu gosto de mexer nela e ainda vo continuar mexendo nela até onde conseguir, caso queira usar vá para youtube no botão lá encima e veja minha criação
+<p align="center">Bem a lolizita é chatbot feita em nodejs por mim com a intenção de entretenimento para grupos de whatsapp, faz mais de um ano que mexo com ela e vivo atualizando, é um projeto que com o tempo ficou cansativo para mim, principalmente por mal receber pelo open source mais eu gosto de mexer e ainda vo continuar mexendo nela até onde conseguir, caso queira usar vá para youtube no botão lá encima e veja minha criação
 </div>
 <br>n
     
