@@ -53,7 +53,7 @@ inovei a comunidade e ajudei muitas pessoas, mais graças aos meus amigos que me
   </div> <br>
 <p align="center">Bem a lolizita é chatbot feita em nodejs por mim com a intenção de entretenimento para grupos de whatsapp, faz mais de um ano que mexo com ela e vivo atualizando, é um projeto que com o tempo ficou cansativo para mim, principalmente por mal receber pelo open source mais eu gosto de mexer e ainda vo continuar mexendo nela até onde conseguir, caso queira usar vá para youtube no botão lá encima e veja minha criação
 </div>
-<br>n
+<br>
     
 <br>
 <h2 align="center">Meus ajudantes</h2>
