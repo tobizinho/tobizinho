@@ -49,7 +49,7 @@ inovei a comunidade e ajudei muitas pessoas, mais graças aos meus amigos que me
   
 <h2 align="center">Meu projeto</h2>
   <div align="center">
-<img src="https://telegra.ph/file/a4e7a1fa67db8439fd681.gif" align="right" width="373.5px" height="208.5px">
+<img src="https://telegra.ph/file/823afe228bd7d57c4ed25.gif" align="right" width="373.5px" height="208.5px">
   </div> <br>
 <p align="center">Bem a lolizita é chatbot feita em nodejs por mim com a intenção de entretenimento para grupos de whatsapp, faz mais de um ano que mexo com ela e vivo atualizando, é um projeto que com o tempo ficou cansativo para mim, principalmente por mal receber pelo open source mais eu gosto de mexer nela e ainnda vo continuar mexendo nela até onde conseguir, caso queira usar vá para youtube no botão lá encima e veja minha criação
 </div>
@@ -58,10 +58,10 @@ inovei a comunidade e ajudei muitas pessoas, mais graças aos meus amigos que me
 <br>
 <h2 align="center">Meus ajudantes</h2>
   <div align="center">
-<img src="https://telegra.ph/file/eda56e1fa85a268aba4a0.gif" align="right" width="373.5px" height="208.5px">
+<img src="https://telegra.ph/file/e7ac852f51b9e84089ace.gif" align="right" width="373.5px" height="208.5px">
   </div>
 <br>
-<p align="center">Eu tenho mais de um ano fazzendo o mesmo projeto que é a lolizita bot e com o tempoo eu atualizo e lanço para comunidade a nova versão, porém isso é cansativo mais eu tenho pessoas que me ajudaram durante esse tempo todo eles alivialaram o peso que eu tinha então durante esse readme eu não poderia esquecer deles, o italuH que me ajudou logo no começo e me axiliar até hoje me ajudando com bugs e erros, o Resen22194 é graças a ele que tenho conhecimento sobre js e outras linguagens ele me ensinou diversas coisas e continua me ajudando, Thiago --CoderThi esse cara tem o mesmo conhecimento que eu e me acompanhou desde o começo ele ainda me ajuda com coisas que não conheço como esse readme e sites já que ele acabou se especializando nisso e me salva nessas areas onde não tenho conhecimento😄</p>
+<p align="center">Eu tenho mais de um ano fazendo o mesmo projeto que é a lolizita bot e com o tempo eu atualizo e lanço para comunidade a nova versão, porém isso é cansativo mais eu tenho pessoas que me ajudaram durante esse tempo todo eles alivialaram o peso que eu tinha então durante esse readme eu não poderia esquecer deles, o italuH que me ajudou logo no começo e me axiliar até hoje me ajudando com bugs e erros, o Resen22194 é graças a ele que tenho conhecimento sobre js e outras linguagens ele me ensinou diversas coisas e continua me ajudando, Thiago --CoderThi esse cara tem o mesmo conhecimento que eu e me acompanhou desde o começo ele ainda me ajuda com coisas que não conheço como esse readme e sites já que ele acabou se especializando nisso e me salva nessas areas onde não tenho conhecimento😄</p>
 
 </div>
 <br>
