@@ -1,6 +1,6 @@
 <body>
   <center>
-<h1 align="center">😷𝓢𝓮𝓳𝓪 𝓫𝓮𝓶 𝓿𝓲𝓷𝓭𝓸😷</h1>
+<h1 align="center">🌟 SEJA BEM VINDO(A)🌟</h1>
 <br>
 <div align="center">
 <!-- <a href="https://discord.com/users/202740603790819328" > -->
