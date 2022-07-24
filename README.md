@@ -3,7 +3,6 @@
 <h1 align="center">Seja Bem Vindo(a)</h1>
 <br>
 <div align="center">
-<!-- <a href="https://discord.com/users/202740603790819328" > -->
    <img src="https://telegra.ph/file/6d2391c5741797948520b.png"  />
   <br>
   <a href="https://www.youtube.com/channel/UCVjgBjQvLRrS_xdT-eO7qUg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a><p>😃𝙈𝙚𝙪 𝙣𝙤𝙢𝙚 𝙚́ 𝙩𝙤𝙗𝙞𝙯𝙞𝙣𝙝𝙤 𝙙𝙚𝙨𝙚𝙣𝙫𝙤𝙡𝙫𝙤 𝙘𝙝𝙖𝙩𝙗𝙤𝙩𝙨 𝙥𝙖𝙧𝙖 𝙬𝙝𝙖𝙩𝙨𝙖𝙥𝙥 𝙚𝙢 𝙤𝙥𝙚𝙣 𝙨𝙤𝙪𝙧𝙘e</p>
