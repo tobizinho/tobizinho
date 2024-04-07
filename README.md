@@ -5,7 +5,7 @@
 <div align="center">
    <img src="https://telegra.ph/file/6d2391c5741797948520b.png"  />
   <br>
-  <a href="https://www.youtube.com/channel/UCVjgBjQvLRrS_xdT-eO7qUg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a><p>😃𝙈𝙚𝙪 𝙣𝙤𝙢𝙚 𝙚́ 𝙩𝙤𝙗𝙞𝙯𝙞𝙣𝙝𝙤 𝙙𝙚𝙨𝙚𝙣𝙫𝙤𝙡𝙫𝙤 𝙘𝙝𝙖𝙩𝙗𝙤𝙩𝙨 𝙥𝙖𝙧𝙖 𝙬𝙝𝙖𝙩𝙨𝙖𝙥𝙥 𝙚𝙢 𝙤𝙥𝙚𝙣 𝙨𝙤𝙪𝙧𝙘e</p>
+  <a href="https://www.youtube.com/channel/UCVjgBjQvLRrS_xdT-eO7qUg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a><p>Meu nome é Rai, sou desenvolvedor em JavaScript e Node.js.</p>
 </div>
  <br>
     <div align="center">
@@ -17,7 +17,7 @@
 <img src="https://telegra.ph/file/7e92d7fd35bbeb98ec148.gif" align="right">
   </div>
 <li>
-Atualmente estou trabalhando com um projeto chamado lolizita bot
+Atualmente estou trabalhando para Desenvolver bots
 </li>
 <li>
 Amo desenvolver chatbots para toda comunidade
