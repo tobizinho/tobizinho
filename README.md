@@ -20,8 +20,9 @@
   <a href="mailto:rs2508018@gmail.com" target="_blank" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&slabelColor=FF0000&logo=gmail&logoColor=white&link=https://is.gd/qFV84d" alt="Gmail"/></a>
 
-  <a href="https://www.linkedin.com/in/rai-silva-428993263/" target="_blank" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rai-silva-428993263/" target="_blank" alt="LinkedIn"/></a>
+ <a href="https://www.linkedin.com/in/rai-silva-428993263/" target="_blank" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/rai-silva-428993263/" alt="LinkedIn"/>
+</a>
 
   <a href="https://api.whatsapp.com/send/?phone=5594991652693&text&type=phone_number&app_absent=0" target="_blank" title="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send/?phone=5594991652693&text&type=phone_number&app_absent=0" target="_blank"alt="WhatsApp"/></a>
